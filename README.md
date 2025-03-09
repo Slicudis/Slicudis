@@ -4,7 +4,7 @@
 The languages that I know are:
 - System Verilog
 - Verilog
-- Assembly
+- RISC-V Assembly
 - Some C
 
 <!---
