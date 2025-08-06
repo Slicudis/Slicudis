@@ -1,5 +1,5 @@
 Greetings, I'm Santiago Licudis (aka: Slicudis).
-I'm interested in digital logic and CPU architecture.
+I'm interested in digital circuit design and CPU architecture.
 
 The languages that I know are:
 - System Verilog
